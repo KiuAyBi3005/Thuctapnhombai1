@@ -59,6 +59,5 @@ namespace _1._1_QuanLyNhanSu
             }
             frm.getData("");
         }
-        
     }
 }
