@@ -20,3 +20,6 @@ C:\Users\Huy\Documents\GitHub\Thuctapnhombai1\1.1 QuanLyNhanSu\obj\Debug\_1._1_Q
 C:\Users\Huy\Documents\GitHub\Thuctapnhombai1\1.1 QuanLyNhanSu\obj\Debug\_1._1_QuanLyNhanSu.frmMain.resources
 C:\Users\Huy\Documents\GitHub\Thuctapnhombai1\1.1 QuanLyNhanSu\obj\Debug\_1._1_QuanLyNhanSu.Properties.Resources.resources
 C:\Users\Huy\Documents\GitHub\Thuctapnhombai1\1.1 QuanLyNhanSu\obj\Debug\1.1 QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\hoangdinhhuy\Documents\GitHub\Thuctapnhombai1\1.1 QuanLyNhanSu\bin\Debug\1.1 QuanLyNhanSu.exe.config
+C:\Users\hoangdinhhuy\Documents\GitHub\Thuctapnhombai1\1.1 QuanLyNhanSu\obj\Debug\1.1 QuanLyNhanSu.exe
+C:\Users\hoangdinhhuy\Documents\GitHub\Thuctapnhombai1\1.1 QuanLyNhanSu\obj\Debug\1.1 QuanLyNhanSu.pdb
