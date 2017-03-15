@@ -26,4 +26,3 @@ insert into tblHoSo(MaNV,TenNV,GioiTinh,QueQuan,BaoHiemXH,SoDT) values (4,'Phan 
 insert into tblHoSo(MaNV,TenNV,GioiTinh,QueQuan,BaoHiemXH,SoDT) values (5,'Ta Van Phu','Nam','Lang Son','53213','0942351342')
 insert into tblHoSo(MaNV,TenNV,GioiTinh,QueQuan,BaoHiemXH,SoDT) values (6,'Pham Duc Duy','Nu','Nha Trang','51231','0842372332')
 
-delete tblNhanVien where MaNV=1

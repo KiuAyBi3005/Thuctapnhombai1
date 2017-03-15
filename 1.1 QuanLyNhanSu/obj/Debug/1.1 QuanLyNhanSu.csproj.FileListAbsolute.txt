@@ -34,3 +34,6 @@ E:\Thuctapnhombai1\1.1 QuanLyNhanSu\obj\Debug\_1._1_QuanLyNhanSu.frmGioiThieu.re
 E:\Thuctapnhombai1\1.1 QuanLyNhanSu\obj\Debug\_1._1_QuanLyNhanSu.frmMain.resources
 E:\Thuctapnhombai1\1.1 QuanLyNhanSu\obj\Debug\_1._1_QuanLyNhanSu.Properties.Resources.resources
 E:\Thuctapnhombai1\1.1 QuanLyNhanSu\obj\Debug\1.1 QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\Huy\Documents\GitHub\Thuctapnhombai1\Thuctapnhombai1\1.1 QuanLyNhanSu\bin\Debug\1.1 QuanLyNhanSu.exe.config
+C:\Users\Huy\Documents\GitHub\Thuctapnhombai1\Thuctapnhombai1\1.1 QuanLyNhanSu\obj\Debug\1.1 QuanLyNhanSu.exe
+C:\Users\Huy\Documents\GitHub\Thuctapnhombai1\Thuctapnhombai1\1.1 QuanLyNhanSu\obj\Debug\1.1 QuanLyNhanSu.pdb
